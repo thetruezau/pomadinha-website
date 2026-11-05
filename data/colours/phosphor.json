@@ -1,0 +1,15 @@
+{
+  "name": "PHOSPHOR",
+  "vars": {
+    "--bg": "#000800",
+    "--panel": "#001000",
+    "--line": "#002200",
+    "--line-strong": "#004400",
+    "--text": "#33ff33",
+    "--text-dim": "#22cc22",
+    "--muted": "#228822",
+    "--accent": "#00ff41",
+    "--accent-dim": "rgba(0, 255, 65, 0.12)",
+    "--green": "#88ff88"
+  }
+}

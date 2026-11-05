@@ -1,0 +1,47 @@
+[
+    {
+	"id": "a256",
+	"title": "A256",
+	"artist": "POMADINHA",
+	"year": "2026",
+	"tracks": [
+	    {
+		"number": 1,
+		"title": "dont wait too long",
+		"versions": {
+		    "A": "audio/wildbeast.mp3",
+		    "B": "audio/nandos.mp3"
+		}
+	    },
+	    {
+		"number": 2,
+		"title": "interlude",
+		"versions": {
+		    "A": "audio/eigod.mp3",
+		    "B": "audio/radiopirata.mp3"
+		}	
+	    },
+	    {
+		"number": 3,
+		"title": "chamagás",
+		"versions": {
+		    "A": "audio/peace.mp3",
+		    "B": "audio/popo.mp3"
+		}
+	    }
+	]
+    },
+    {
+	"id": "time",
+	"title": "Time",
+	"artist": "POMADINHA",
+	"year": "2025",
+	"tracks": [
+	    {
+		"number": 1,
+		"title": "Time",
+		"file": "audio/time.mp3"	
+	    }
+	]
+    }
+]

@@ -1,0 +1,55 @@
+{
+  "header": {
+    "logo": "POMADINHA",
+    "about": "SOBRE NÓS",
+    "shows": "CONCERTOS",
+    "merch": "MERCH",
+    "songs": "ÁLBUNS",
+    "gallery": "GALERIA"
+  },
+  "home": {
+    "title": "POMADINHA",
+    "subtitle": "MÚSICA INDEPENDENTE / TRANSMISSION 256",
+    "ticker": "/// POMADINHA /// ROCK PSICADÉLICO INSTRUMENTAL /// REDE DE TRANSMISSÃO /// SEM VOZES, APENAS SINAIS ///",
+    "featured_album": "OUVIR AGORA",
+    "news_tag": "NOVO ÁLBUM",
+    "news_desc": "Cada reprodução origina um álbum diferente com variações A/B de cada faixa. Ouve agora uma das 256 versões possíveis.",
+    "shows_title": "PRÓXIMOS CONCERTOS",
+    "past_shows_title": "CONCERTOS ANTERIORES",
+    "no_shows": "SEM CONCERTOS AGENDADOS",
+    "all_shows": "TODOS OS CONCERTOS"
+  },
+  "shows": {
+    "page_title": "TRANSMISSÕES / CONCERTOS",
+    "tickets": "BILHETES",
+    "sold_out": "ESGOTADO"
+  },
+  "merch": {
+    "page_title": "MERCHANDISING OFICIAL",
+    "currency": "EUR",
+    "buy": "COMPRAR",
+    "out_of_stock": "FORA DE ESTOQUE"
+  },
+  "player": {
+    "album_cover": "CAPA DO ÁLBUM",
+    "tracks": "FAIXAS",
+    "version": "VERSÃO",
+    "select_album": "DISCOGRAFIA"
+  },
+  "about": {
+    "page_title": "SOBRE NÓS",
+    "project_title": "O PROJETO",
+    "read_more": "LER BIO COMPLETA",
+    "read_less": "MOSTRAR MENOS"
+  },
+  "gallery": {
+    "page_title": "ARQUIVO FOTOGRÁFICO",
+    "open_drive": "ABRIR NO GOOGLE DRIVE",
+    "empty": "AINDA SEM FOTOS CONFIGURADAS"
+  },
+  "footer": {
+    "sequence": "SEQ",
+    "now_playing": "A TOCAR",
+    "theme": "TEMA"
+  }
+}

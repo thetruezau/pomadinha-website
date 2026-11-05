@@ -1,0 +1,11 @@
+{
+  "bio_short": "Pomadinha is an instrumental psychedelic rock ensemble born from the urge to explore sound without borders. Drawing from the progressive landscapes of Genesis and Pink Floyd and the raw power of Led Zeppelin, the band crafts immersive sonic journeys where no two listens are ever the same.",
+  "bio_full": "Pomadinha emerged in the underground circuit as a reaction against formulaic rock. Without a vocalist to anchor the narrative, the music becomes the narrator itself — shifting, evolving, and surprising.\n\nThe project A256 is the culmination of years of experimentation: each track exists in multiple versions (A/B), and every playback generates a unique sequence. With three tracks and two versions each, 256 possible combinations exist. No two transmissions are identical.\n\nThe band records live to tape whenever possible, favouring analogue warmth and the imperfections that make each take human. Rehearsals happen in a converted warehouse on the outskirts of Lisbon, surrounded by vintage amplifiers, modular synths, and enough cables to trip a small army.",
+  "project": "A256 is not an album in the traditional sense — it is a transmission system.\n\nEach of the three tracks was recorded in two distinct versions (A and B), differing in arrangement, tempo, and texture. When you press play, the system randomly selects one version per track and sequences them. The result: 2³ = 8 permutations per track order, multiplied across possible track orders, yielding 256 unique listening experiences.\n\nThe project questions the permanence of recorded music. If every playback is different, where does the 'song' actually live? In the files, in the sequence, or in the listener's memory of what they heard?",
+  "members": [
+    { "name": "GUITARIST NAME", "role": "guitar / textures" },
+    { "name": "BASSIST NAME", "role": "bass / low-end drones" },
+    { "name": "DRUMMER NAME", "role": "drums / percussion" },
+    { "name": "KEYBOARDIST NAME", "role": "keys / synth / organ" }
+  ]
+}

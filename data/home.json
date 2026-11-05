@@ -1,21 +1,21 @@
 {
-  "blocks": [
-    { "type": "ticker" },
-    {
-      "type": "hero",
-      "src": "https://glam-magazine.pt/wp-content/uploads/2023/07/DSC0811-1-C%C3%B3pia.jpg",
-      "caption": "TRANSMISSION_REF: DSC0811 // LIVE SESSION"
-    },
-    {
-      "type": "news",
-      "title": "A256: TRANSMISSÃO ALEATÓRIA",
-      "featured_album": "a256"
-    },
-    {
-      "type": "shows",
-      "column": "side",
-      "max_items": 5,
-      "show_all_link": true
-    }
-  ]
+    "blocks": [
+	{ "type": "ticker" },
+	{
+	    "type": "hero",
+	    "src": "https://glam-magazine.pt/wp-content/uploads/2023/07/DSC0811-1-C%C3%B3pia.jpg",
+	    "caption": "POMADINHA ::: MARÉS VIVAS"
+	},
+	{
+	    "type": "news",
+	    "title": "Time",
+	    "featured_album": "time"
+	},
+	{
+	    "type": "shows",
+	    "column": "side",
+	    "max_items": 3,
+	    "show_all_link": true
+	}
+    ]
 }

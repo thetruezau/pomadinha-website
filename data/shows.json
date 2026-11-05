@@ -1,47 +1,27 @@
 [
-  {
-    "id": "show-01",
-    "name": "Musicbox Transmission",
-    "venue": "Musicbox",
-    "city": "Lisbon, PT",
-    "date": "2026-11-15",
-    "status": "available",
-    "ticketUrl": "https://example.com/tickets1"
-  },
-  {
-    "id": "show-02",
-    "name": "Hard Club Underground",
-    "venue": "Hard Club",
-    "city": "Porto, PT",
-    "date": "2026-10-02",
-    "status": "available",
-    "ticketUrl": "https://example.com/tickets2"
-  },
-  {
-    "id": "show-03",
-    "name": "Past Session #3",
-    "venue": "Lux Frágil",
-    "city": "Lisbon, PT",
-    "date": "2026-04-10",
-    "status": "sold_out",
-    "ticketUrl": ""
-  },
-  {
-    "id": "show-04",
-    "name": "Past Session #2",
-    "venue": "Maus Hábitos",
-    "city": "Porto, PT",
-    "date": "2025-12-18",
-    "status": "sold_out",
-    "ticketUrl": ""
-  },
-  {
-    "id": "show-05",
-    "name": "Past Session #1",
-    "venue": "Salão Brazil",
-    "city": "Coimbra, PT",
-    "date": "2025-08-05",
-    "status": "sold_out",
-    "ticketUrl": ""
-  }
+    {
+	"id": "camara-gaia-26",
+	"name": "Festas em Honra de São Cristóvão",
+	"venue": "Praça de São Cristóvão",
+	"city": "Gaia, PT",
+	"date": "24.07.2026",
+	"status": "free"
+    },
+    {
+	"id": "amizade-fest-26",
+	"name": "Amizade Fest",
+	"venue": "S. Miguel de Souto",
+	"city": "Santa Maria da Feira, PT",
+	"date": "11.07.2026",
+	"status": "sold out"
+    },
+    {
+	"id": "maruja",
+	"name": "Maruja Opening Act",
+	"venue": "Mouco",
+	"city": "Porto, PT",
+	"date": "26-05-2026",
+	"status": "sold_out",
+	"ticketUrl": ""
+    }
 ]

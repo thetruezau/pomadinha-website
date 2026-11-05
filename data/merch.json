@@ -1,32 +1,32 @@
 [
-  {
-    "id": "m1",
-    "name_en": "A256 Limited Cassette Tape",
-    "name_pt": "Cassete Edição Limitada A256",
-    "description_en": "High-bias chrome tape featuring full A256 randomized master recordings.",
-    "description_pt": "Fita cassete croma de alta qualidade com gravações originais A256.",
-    "price": 12.00,
-    "available": true,
-    "code": "MERCH-A256-TAPE"
-  },
-  {
-    "id": "m2",
-    "name_en": "Pomadinha Monochrome Tee",
-    "name_pt": "T-Shirt Monocromática Pomadinha",
-    "description_en": "Heavyweight 240gsm cotton with screenprinted A256 structural graphics.",
-    "description_pt": "Algodão pesado 240gsm com grafismos A256 serigrafados.",
-    "price": 30.00,
-    "available": true,
-    "code": "MERCH-TEE-BLK"
-  },
-  {
-    "id": "m3",
-    "name_en": "Frequency Poster (Signed)",
-    "name_pt": "Pôster Frequência (Assinado)",
-    "description_en": "A2 screenprint on 300gsm recycled archival paper.",
-    "description_pt": "Serigrafia A2 em papel reciclado de arquivo 300gsm.",
-    "price": 20.00,
-    "available": false,
-    "code": "MERCH-PSTR-01"
-  }
+    {
+	"id": "m1",
+	"name_en": "Boxer or Shorts",
+	"name_pt": "Boxers ou Calções",
+	"description_en": "Official boxers used by the band in live shows.",
+	"description_pt": "Boxers oficiais usados pela banda nos concertos.",
+	"price": 30.00,
+	"available": true,
+	"code": "BOXERS"
+    },
+    {
+	"id": "m2",
+	"name_en": "Zé Pomadas",
+	"name_pt": "Zé Pomadas",
+	"description_en": "Nothing to describe, it's Zé.",
+	"description_pt": "Nada a acrescentar, é o Zé.",
+	"price": 333.00,
+	"available": false,
+	"code": "ZE-POMADAS"
+    },
+    {
+	"id": "m3",
+	"name_en": "Old signed poster",
+	"name_pt": "Posters antigos assinados",
+	"description_en": "A2/A3/A4 poster from a random show signed by the band.",
+	"description_pt": "Poster em A2/A3/A4 de um concerto aleatório assinado pela banda.",
+	"price": 10.00,
+	"available": false,
+	"code": "POSTERS"
+    }
 ]
